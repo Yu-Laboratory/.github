@@ -35,7 +35,7 @@ Yu Laboratory focuses on foundational robotics technologies for home rehabilitat
 | Technical Specialist | Masashi Sekine (関根 雅) |
 | Secretary            | Mizue Osugi (大杉 瑞枝)   |
 
-### Master’s Students
+###  Research Students
 
 * Junyan Cao (曹俊彦)
 
@@ -50,6 +50,9 @@ Yu Laboratory focuses on foundational robotics technologies for home rehabilitat
 * Ema Oba (大庭 瑛麻)
 * Naoki Kamijou (上条 直輝)
 * Yuto Tanizaki (谷崎 悠人)
+  
+### Master’s Students
+
 * Maria Cordero
 * Youyan Xu (許友言)
 * Yuki Umezawa (楳澤 勇希)
@@ -62,10 +65,6 @@ Yu Laboratory focuses on foundational robotics technologies for home rehabilitat
 * Koshi Kurosawa (黒澤 晃士)
 * Ayano Shoji (庄子 綾乃)
 * Kyonosuke Matsuzawa (松沢 京之助)
-
-### Visiting Researchers / Interns
-
-* Visitor
 
 ## Contact
 
