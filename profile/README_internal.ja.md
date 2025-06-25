@@ -55,4 +55,7 @@
 
 ---
 
-📬 ご質問は **[infrastructure@yu-lab.local](mailto:infrastructure@yu-lab.local)** まで、または Slack の `#git-admin` チャンネルでどうぞ。
+📬 ご質問は組織管理者に
+- **[heu_xuyouyan@outlook.com](mailto:infrastructure@yu-lab.local)** 又は
+  
+- **[yuwill@faculty.chiba-u.jp](mailto:infrastructure@yu-lab.local)** メールをお願い致します。
