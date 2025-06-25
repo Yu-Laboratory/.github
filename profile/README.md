@@ -4,11 +4,13 @@
   <details>
     <summary><strong>Select Language</strong></summary>
     <p>
+      <strong>English</strong><br>
       <a href="README.ja.md">日本語</a><br>
       <a href="README.zh.md">中文</a>
     </p>
   </details>
 </div>
+<div align="right"><a href="README_internal.md"><strong>For Lab Members</strong></a></div>
 
 # Welcome to Yu Laboratory 🎉
 
@@ -78,4 +80,4 @@ Yu Laboratory focuses on foundational robotics technologies for home rehabilitat
   * \~10‑minute walk from JR Chūō‑Sōbu Line “Nishi‑Chiba” Station
   * \~10‑minute walk from Keisei Chiba Line “Midoridai” Station
 * **Map** [Google Map](https://www.google.com/maps/d/u/0/viewer?mid=12scAzojhL9GfQjTKM94JG1AZhD0&femb=1&ll=35.625353043057785%2C140.10115050000002&z=17) 
-<img src="../docs/img/yu_lab_access.png?raw=true" alt="Walking routes from Nishi-Chiba and Midoridai Stations to Yu Laboratory" width="600" />
+<img src="../docs/img/yu_lab_access.png?raw=true" alt="Walking routes from Nishi‑Chiba and Midoridai Stations to Yu Laboratory" width="600" />
