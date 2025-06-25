@@ -39,7 +39,7 @@ Yu Laboratory focuses on foundational robotics technologies for home rehabilitat
 
 * Junyan Cao (曹俊彦)
 
-### Doctoral Candidates
+### Doctor Students
 
 * Thibaut Morant
 * Pablo Enrique Tortos Vinocour
@@ -51,7 +51,7 @@ Yu Laboratory focuses on foundational robotics technologies for home rehabilitat
 * Naoki Kamijou (上条 直輝)
 * Yuto Tanizaki (谷崎 悠人)
   
-### Master’s Students
+### Master Students
 
 * Maria Cordero
 * Youyan Xu (許友言)
