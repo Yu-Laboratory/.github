@@ -37,7 +37,7 @@ Yu Laboratory focuses on foundational robotics technologies for home rehabilitat
 
 ### Master’s Students
 
-* Junyan Cao(曹俊彦)
+* Junyan Cao (曹俊彦)
 
 ### Doctoral Candidates
 
@@ -46,13 +46,13 @@ Yu Laboratory focuses on foundational robotics technologies for home rehabilitat
 * Junqi Yang (杨珺淇)
 * Ruian Qin (秦睿安)
 * Haihang Yuan (袁海杭)
-* Tianyi Yang (杨天羿)
+* Tianyi Yang (楊天羿)
 * Ema Oba (大庭 瑛麻)
 * Naoki Kamijou (上条 直輝)
 * Yuto Tanizaki (谷崎 悠人)
 * Maria Cordero
-* Youyan Xu (许友言)
-* Yuki Umezawa (梅泽 勇希)
+* Youyan Xu (許友言)
+* Yuki Umezawa (楳澤 勇希)
 * Yuna Tanno (丹野 裕菜)
 * Natsumi Takamura (髙村 夏未)
 
@@ -80,5 +80,4 @@ Yu Laboratory focuses on foundational robotics technologies for home rehabilitat
 
   * \~10‑minute walk from JR Chūō‑Sōbu Line “Nishi‑Chiba” Station
   * \~10‑minute walk from Keisei Chiba Line “Midoridai” Station
-* **Map** [Google Map](https://www.google.com/maps/d/u/0/viewer?mid=12scAzojhL9GfQjTKM94JG1AZhD0&femb=1&ll=35.625353043057785%2C140.10115050000002&z=17) 
-<img src="../docs/img/yu_lab_access.png?raw=true" alt="Walking routes from Nishi‑Chiba and Midoridai Stations to Yu Laboratory" width="600" />
+* **Map** [Google Map](https://www.google.com/maps/d/u/0/viewer?mid=12scAzojhL9GfQjTKM94JG1AZhD0&femb=1&ll=35.625353043057785%2C140.10115050000002&z=17) <img src="../docs/img/yu_lab_access.png?raw=true" alt="Walking routes from Nishi‑Chiba and Midoridai Stations to Yu Laboratory" width="600" />
