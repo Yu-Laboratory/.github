@@ -34,7 +34,7 @@
 | **Workshops** | 勉強会 | 2025 | 書き込み（Write） |
 | **Other Meetings** | その他の会議 | 2025 | 書き込み（Write） |
 
-> **例** – 2025年度の全体ゼミリポジトリは `Full team meeting-2025` と命名します。
+> **例** – 2025年度の全体ゼミリポジトリは `全体ゼミ2025` と命名します。
 
 ### 📁 ミーティングリポジトリのディレクトリ構成
 
@@ -57,4 +57,8 @@
 
 ---
 
-📬 ご質問は **[infrastructure@yu-lab.local](mailto:infrastructure@yu-lab.local)** まで、または Slack の `#git-admin` チャンネルでどうぞ。
+📬 ご質問は 組織管理者：
+
+- **[heu_xuyouyan@outlook.com](mailto:infrastructure@yu-lab.local)** 又は
+  
+- **[yuwill@faculty.chiba-u.jp](mailto:infrastructure@yu-lab.local)**　までお問い合わせください
