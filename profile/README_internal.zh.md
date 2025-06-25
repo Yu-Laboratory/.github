@@ -26,9 +26,9 @@
 | 仓库名 | 内容 | 年份后缀 | 成员权限 |
 | --- | --- | --- | --- |
 | **Full-team-meeting** | 每月一次的全体实验室研讨会 | 2025 | Write |
-| **Biosignal-Seminar** | 生体信号测量小组研讨会 | 2025 | Write |
-| **Soft-Robotics-Seminar** | 软体机器人小组研讨会 | 2025 | Write |
-| **Journal-Club** | 文献精读／Journal Club | 2025 | Write |
+| **Biosignal-Seminar** | 生理信号分析组研讨会 | 2025 | Write |
+| **Soft-Robotics-Seminar** | 软体机器人组研讨会 | 2025 | Write |
+| **Journal-Club** | 文献精读 | 2025 | Write |
 | **Workshops** | 技能提升讲习／学习会 | 2025 | Write |
 | **Other-Meetings** | 其他会议 | 2025 | Write |
 | **euROBIN**, **euROBIN-Perception**, **euROBIN-Arm**, **euROBIN-Robot** | Robot Competition 相关代码库 | 2025 | Write |
