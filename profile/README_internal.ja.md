@@ -23,15 +23,15 @@
 
 ## 🗂️ リポジトリ命名規則
 
-| リポジトリ接頭辞 | 内容  | 年度サフィックス | メンバー権限 |
-| --- | --- | --- | --- |
-| **[Full-team-meeting](https://github.com/Yu-Laboratory/Full-team-meeting-2025)** | 全体ゼミ | 2025 | 書き込み（Write） |
-| **[Biosignal-Seminar](https://github.com/Yu-Laboratory/Biosignal-Seminar-2025)** | 生体計測ゼミ | 2025 | 書き込み（Write） |
-| **[Soft-Robotics-Seminar](https://github.com/Yu-Laboratory/Soft-Robotics-Seminar-2025)** | ソフトロボットゼミ | 2025 | 書き込み（Write） |
-| **[Journal-Club](https://github.com/Yu-Laboratory/Journal-Club-2025)** | 輪読会／ジャーナルクラブ | 2025 | 書き込み（Write） |
-| **[Workshops](https://github.com/Yu-Laboratory/Workshops-2025)** | 勉強会 | 2025 | 書き込み（Write） |
-| **[Other-Meetings](https://github.com/Yu-Laboratory/Other-Meetings-2025)** | その他の会議 | 2025 | 書き込み（Write） |
-| **[euROBIN](https://github.com/Yu-Laboratory/euROBIN)**, **[euROBIN-Perception](https://github.com/Yu-Laboratory/euROBIN-Perception)**, **[euROBIN-Arm](https://github.com/Yu-Laboratory/euROBIN-Arm)**, **[euROBIN-Robot](https://github.com/Yu-Laboratory/euROBIN-Robot)** | Robot Competition 関連のコードリポジトリ | 2025 | 書き込み（Write） |
+| リポジトリ接頭辞                                                                                                                                                                                                                                                                     | 内容                            | 年度サフィックス | メンバー権限             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:-----------------------------:|:--------:|:------------------:|
+| **[Full-team-meeting](https://github.com/Yu-Laboratory/Full-team-meeting-2025)**                                                                                                                                                                                             | 全体ゼミ                          | 2025     | Both Groups(Write) |
+| **[Biosignal-Seminar](https://github.com/Yu-Laboratory/Biosignal-Seminar-2025)**                                                                                                                                                                                             | 生体計測ゼミ                        | 2025     | Bio- Group(Write)  |
+| **[Soft-Robotics-Seminar](https://github.com/Yu-Laboratory/Soft-Robotics-Seminar-2025)**                                                                                                                                                                                     | ソフトロボットゼミ                     | 2025     | Robot-Group(Write) |
+| **[Journal-Club](https://github.com/Yu-Laboratory/Journal-Club-2025)**                                                                                                                                                                                                       | 輪読会／ジャーナルクラブ                  | 2025     | Both Groups（Write） |
+| **[Workshops](https://github.com/Yu-Laboratory/Workshops-2025)**                                                                                                                                                                                                             | 勉強会                           | 2025     | Both Groups（Write） |
+| **[Other-Meetings](https://github.com/Yu-Laboratory/Other-Meetings-2025)**                                                                                                                                                                                                   | その他の会議                        | 2025     | Both Groups（Write） |
+| **[euROBIN](https://github.com/Yu-Laboratory/euROBIN)**, **[euROBIN-Perception](https://github.com/Yu-Laboratory/euROBIN-Perception)**, **[euROBIN-Arm](https://github.com/Yu-Laboratory/euROBIN-Arm)**, **[euROBIN-Robot](https://github.com/Yu-Laboratory/euROBIN-Robot)** | Robot Competition 関連のコードリポジトリ | 2025     | Both Groups（Write） |
 
 > **例** – 2025年度の全体ゼミリポジトリは `Full-team-meeting-2025` と命名します。
 
@@ -59,5 +59,5 @@
 📬 ご質問は 組織管理者：
 
 - **[heu_xuyouyan@outlook.com](mailto:infrastructure@yu-lab.local)** 又は
-  
+
 - **[yuwill@faculty.chiba-u.jp](mailto:infrastructure@yu-lab.local)**　までお問い合わせください

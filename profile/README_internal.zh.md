@@ -23,15 +23,15 @@
 
 ## 🗂️ 仓库命名规范
 
-| 仓库名 | 内容 | 年份后缀 | 成员权限 |
-| --- | --- | --- | --- |
-| **[Full-team-meeting](https://github.com/Yu-Laboratory/Full-team-meeting-2025)** | 全体研讨会 | 2025 | Write |
-| **[Biosignal-Seminar](https://github.com/Yu-Laboratory/Biosignal-Seminar-2025)** | 生理信号分析组研讨会 | 2025 | Write |
-| **[Soft-Robotics-Seminar](https://github.com/Yu-Laboratory/Soft-Robotics-Seminar-2025)** | 软体机器人组研讨会 | 2025 | Write |
-| **[Journal-Club](https://github.com/Yu-Laboratory/Journal-Club-2025)** | 文献精读 | 2025 | Write |
-| **[Workshops](https://github.com/Yu-Laboratory/Workshops-2025)** | 技能提升讲习／学习会 | 2025 | Write |
-| **[Other-Meetings](https://github.com/Yu-Laboratory/Other-Meetings-2025)** | 其他会议 | 2025 | Write |
-| **[euROBIN](https://github.com/Yu-Laboratory/euROBIN)**, **[euROBIN-Perception](https://github.com/Yu-Laboratory/euROBIN-Perception)**, **[euROBIN-Arm](https://github.com/Yu-Laboratory/euROBIN-Arm)**, **[euROBIN-Robot](https://github.com/Yu-Laboratory/euROBIN-Robot)** | Robot Competition 相关代码库 | 2025 | Write |
+| 仓库名                                                                                                                                                                                                                                                                          | 内容                      | 年份后缀 | 成员权限               |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:-----------------------:|:----:|:------------------:|
+| **[Full-team-meeting](https://github.com/Yu-Laboratory/Full-team-meeting-2025)**                                                                                                                                                                                             | 全体研讨会                   | 2025 | Both Groups(Write) |
+| **[Biosignal-Seminar](https://github.com/Yu-Laboratory/Biosignal-Seminar-2025)**                                                                                                                                                                                             | 生理信号分析组研讨会              | 2025 | Bio- Group(Write)  |
+| **[Soft-Robotics-Seminar](https://github.com/Yu-Laboratory/Soft-Robotics-Seminar-2025)**                                                                                                                                                                                     | 软体机器人组研讨会               | 2025 | Robot-Group(Write) |
+| **[Journal-Club](https://github.com/Yu-Laboratory/Journal-Club-2025)**                                                                                                                                                                                                       | 文献精读                    | 2025 | Both Groups(Write) |
+| **[Workshops](https://github.com/Yu-Laboratory/Workshops-2025)**                                                                                                                                                                                                             | 技能提升讲习／学习会              | 2025 | Both Groups(Write) |
+| **[Other-Meetings](https://github.com/Yu-Laboratory/Other-Meetings-2025)**                                                                                                                                                                                                   | 其他会议                    | 2025 | Both Groups(Write) |
+| **[euROBIN](https://github.com/Yu-Laboratory/euROBIN)**, **[euROBIN-Perception](https://github.com/Yu-Laboratory/euROBIN-Perception)**, **[euROBIN-Arm](https://github.com/Yu-Laboratory/euROBIN-Arm)**, **[euROBIN-Robot](https://github.com/Yu-Laboratory/euROBIN-Robot)** | Robot Competition 相关代码库 | 2025 | Both Groups(Write) |
 
 > **示例** – 2025 年的全体研讨会仓库为： `Full-team-meeting-2025`
 
@@ -59,5 +59,5 @@
 📬 如有疑问，请联系组织管理员：
 
 - **[heu_xuyouyan@outlook.com](mailto:infrastructure@yu-lab.local)** 或
-  
+
 - **[yuwill@faculty.chiba-u.jp](mailto:infrastructure@yu-lab.local)**
