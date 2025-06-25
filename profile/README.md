@@ -1,8 +1,8 @@
 <!-- Language selector -->
 
-<div align="right">
-  [日本語](README.ja.md) | [中文](README.zh.md)
-</div>
+<p align="right">
+  <a href="README.ja.md">日本語</a> | <a href="README.zh.md">中文</a>
+</p>
 
 # Welcome to Yu Laboratory 🎉
 
