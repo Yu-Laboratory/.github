@@ -31,6 +31,7 @@
 | **輪読会** | 文献精读／Journal Club | 2025 | Write |
 | **勉強会** | 技能提升讲习／学习会 | 2025 | Write |
 | **その他の会議** | 临时或跨组会议 | 2025 | Write |
+| **euROBIN**, **euROBIN-Perception**, **euROBIN-Arm**, **euROBIN-Robot** | Robot Competition 相关代码库 | 2025 | Write |
 
 > **示例** – 2025 年的全体研讨会仓库为： `全体ゼミ2025`\*\* – 2025 年的全体研讨会仓库为： `全体ゼミ2025`
 

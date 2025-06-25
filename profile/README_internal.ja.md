@@ -31,6 +31,7 @@
 | **Journal Club** | 輪読会／ジャーナルクラブ | 2025 | 書き込み（Write） |
 | **Workshops** | 勉強会 | 2025 | 書き込み（Write） |
 | **Other Meetings** | その他の会議 | 2025 | 書き込み（Write） |
+| **euROBIN**, **euROBIN-Perception**, **euROBIN-Arm**, **euROBIN-Robot** | Robot Competition 関連のコードリポジトリ | 2025 | 書き込み（Write） |
 
 > **例** – 2025年度の全体ゼミリポジトリは `Full team meeting-2025` と命名します。
 
