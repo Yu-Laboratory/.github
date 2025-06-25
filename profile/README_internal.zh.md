@@ -23,7 +23,7 @@
 
 ## 🗂️ 仓库命名规范
 
-| Repository Prefix | 内容 | 年份后缀 | 成员权限 |
+| 仓库名 | 内容 | 年份后缀 | 成员权限 |
 | --- | --- | --- | --- |
 | **Full-team-meeting** | 每月一次的全体实验室研讨会 | 2025 | Write |
 | **Biosignal-Seminar** | 生体信号测量小组研讨会 | 2025 | Write |
