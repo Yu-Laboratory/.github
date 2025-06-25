@@ -1,4 +1,19 @@
+<!-- Language selector -->
+
+<div align="right">
+  <details>
+    <summary><strong>Select Language</strong></summary>
+    <p>
+      <strong>English</strong><br>
+      <a href="README_internal.ja.md">日本語</a><br>
+      <a href="README_internal.en.md">中文</a><br>
+    </p>
+  </details>
+</div>
+
 # 📚 Yu Laboratory — Internal Handbook
+
+Internal Handbook
 
 ---
 
