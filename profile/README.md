@@ -37,7 +37,7 @@ Yu Laboratory focuses on foundational robotics technologies for home rehabilitat
 
 ### Master’s Students
 
-* Junyan Cao
+* Junyan Cao(曹俊彦)
 
 ### Doctoral Candidates
 
