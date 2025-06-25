@@ -75,6 +75,7 @@ Yu Laboratory focuses on foundational robotics technologies for home rehabilitat
   Prof. Yu’s Office: Room 510 · Student Office: Room 506
 * **Phone** +81‑43‑290‑3231 (ext. 3231)
 * **E‑mail** yuwill\[at]faculty.chiba‑u.jp (replace `[at]` with `@`)
+* **Website** [Yu Laboratory Homepage](https://www.tms.chiba-u.jp/~yu/)
 * **Access**
 
   * \~10‑minute walk from JR Chūō‑Sōbu Line “Nishi‑Chiba” Station
