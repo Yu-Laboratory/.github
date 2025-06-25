@@ -1,4 +1,17 @@
-# 📚 Yu Laboratory — Internal Handbook
+<!-- Language selector -->
+
+<div align="right">
+  <details>
+    <summary><strong>Select Language</strong></summary>
+    <p>
+      <strong>English</strong><br>
+      <a href="README_internal.ja.md">日本語</a><br>
+      <a href="README_internal.zh.md">中文</a>
+    </p>
+  </details>
+</div>
+
+ # 📚 Yu Laboratory — Internal Handbook
 
 ---
 
@@ -10,7 +23,7 @@ This organization serves as a central archive for **all materials related to our
 
 ## 🗂️ Repository Naming Convention
 
-| Repository Prefix (JP) | Content | Year Suffix | Member Permission |
+| Repository Prefix | Content | Year Suffix | Member Permission |
 | --- | --- | --- | --- |
 | **Full team meeting** | Monthly all‑hands lab seminar | 2025 | Write |
 | **Biosignal Seminar** | Biosignal‑measurement subgroup seminars | 2025 | Write |
@@ -19,7 +32,7 @@ This organization serves as a central archive for **all materials related to our
 | **Workshops** | Skill‑up workshops & study meetings | 2025 | Write |
 | **Other Meetings** | Ad‑hoc or cross‑group meetings | 2025 | Write |
 
-> **Example** – the 2025 all‑hands seminar repository should be named: `全体ゼミ-2025`
+> **Example** – the 2025 all‑hands seminar repository should be named: `Full team meeting-2025`
 
 ### 📁 Meeting Repository Directory Structure
 
