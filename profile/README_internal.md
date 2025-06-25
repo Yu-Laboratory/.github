@@ -1,19 +1,4 @@
-<!-- Language selector -->
-
-<div align="right">
-  <details>
-    <summary><strong>Select Language</strong></summary>
-    <p>
-      <strong>English</strong><br>
-      <a href="README_internal.ja.md">日本語</a><br>
-      <a href="README_internal.zh.md">中文</a><br>
-    </p>
-  </details>
-</div>
-
 # 📚 Yu Laboratory — Internal Handbook
-
-Internal Handbook
 
 ---
 
@@ -25,16 +10,16 @@ This organization serves as a central archive for **all materials related to our
 
 ## 🗂️ Repository Naming Convention
 
-| Repository Prefix (JP) | Content                                 | Year Suffix | Member Permission |
-| ---------------------- | --------------------------------------- | ----------- | ----------------- |
-| **全体ゼミ**               | Monthly all‑hands lab seminar           | 2025        | Write             |
-| **生体計測ゼミ**             | Biosignal‑measurement subgroup seminars | 2025        | Write             |
-| **ソフトロボットゼミ**          | Soft‑robotics subgroup seminars         | 2025        | Write             |
-| **輪読会**                | Journal club / paper reading sessions   | 2025        | Write             |
-| **勉強会**                | Skill‑up workshops & study meetings     | 2025        | Write             |
-| **その他の会議**             | Ad‑hoc or cross‑group meetings          | 2025        | Write             |
+| Repository Prefix (JP) | Content | Year Suffix | Member Permission |
+| --- | --- | --- | --- |
+| **Full team meeting** | Monthly all‑hands lab seminar | 2025 | Write |
+| **Biosignal Seminar** | Biosignal‑measurement subgroup seminars | 2025 | Write |
+| **Soft Robotics Seminar** | Soft‑robotics subgroup seminars | 2025 | Write |
+| **Journal Club** | Journal club / paper reading sessions | 2025 | Write |
+| **Workshops** | Skill‑up workshops & study meetings | 2025 | Write |
+| **Other Meetings** | Ad‑hoc or cross‑group meetings | 2025 | Write |
 
-> **Example** – the 2025 all‑hands seminar repository should be named: `全体ゼミ2025`
+> **Example** – the 2025 all‑hands seminar repository should be named: `全体ゼミ-2025`
 
 ### 📁 Meeting Repository Directory Structure
 
@@ -60,5 +45,5 @@ Research code **should not** be placed in the meeting-material repositories abov
 📬 For any questions, contact organization administrator:
 
 - **[heu_xuyouyan@outlook.com](mailto:infrastructure@yu-lab.local)** or
-
+  
 - **[yuwill@faculty.chiba-u.jp](mailto:infrastructure@yu-lab.local)**
