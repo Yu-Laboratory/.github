@@ -23,16 +23,17 @@
 
 ## 🗂️ 仓库命名规范
 
-| 仓库前缀（日语） | 内容  | 年份后缀 | 成员权限 |
+| Repository Prefix | 内容 | 年份后缀 | 成员权限 |
 | --- | --- | --- | --- |
-| **全体ゼミ** | 每月一次的全体实验室研讨会 | 2025 | Write |
-| **生体計測ゼミ** | 生体信号测量小组研讨会 | 2025 | Write |
-| **ソフトロボットゼミ** | 软体机器人小组研讨会 | 2025 | Write |
-| **輪読会** | 文献精读／Journal Club | 2025 | Write |
-| **勉強会** | 技能提升讲习／学习会 | 2025 | Write |
-| **その他の会議** | 临时或跨组会议 | 2025 | Write |
+| **Full-team-meeting** | 每月一次的全体实验室研讨会 | 2025 | Write |
+| **Biosignal-Seminar** | 生体信号测量小组研讨会 | 2025 | Write |
+| **Soft-Robotics-Seminar** | 软体机器人小组研讨会 | 2025 | Write |
+| **Journal-Club** | 文献精读／Journal Club | 2025 | Write |
+| **Workshops** | 技能提升讲习／学习会 | 2025 | Write |
+| **Other-Meetings** | 临时或跨组会议 | 2025 | Write |
+| **euROBIN**, **euROBIN-Perception**, **euROBIN-Arm**, **euROBIN-Robot** | Robot Competition 相关代码库 | 2025 | Write |
 
-> **示例** – 2025 年的全体研讨会仓库为： `全体ゼミ2025`\*\* – 2025 年的全体研讨会仓库为： `全体ゼミ2025`
+> **示例** – 2025 年的全体研讨会仓库为： `Full-team-meeting-2025`
 
 ### 📁 会议仓库的目录结构
 

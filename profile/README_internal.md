@@ -25,14 +25,15 @@ This organization serves as a central archive for **all materials related to our
 
 | Repository Prefix | Content | Year Suffix | Member Permission |
 | --- | --- | --- | --- |
-| **Full team meeting** | Monthly all‑hands lab seminar | 2025 | Write |
-| **Biosignal Seminar** | Biosignal‑measurement subgroup seminars | 2025 | Write |
-| **Soft Robotics Seminar** | Soft‑robotics subgroup seminars | 2025 | Write |
-| **Journal Club** | Journal club / paper reading sessions | 2025 | Write |
+| **Full-team-meeting** | Monthly all‑hands lab seminar | 2025 | Write |
+| **Biosignal-Seminar** | Biosignal‑measurement subgroup seminars | 2025 | Write |
+| **Soft-Robotics-Seminar** | Soft‑robotics subgroup seminars | 2025 | Write |
+| **Journal-Club** | Journal club / paper reading sessions | 2025 | Write |
 | **Workshops** | Skill‑up workshops & study meetings | 2025 | Write |
-| **Other Meetings** | Ad‑hoc or cross‑group meetings | 2025 | Write |
+| **Other-Meetings** | Ad‑hoc or cross‑group meetings | 2025 | Write |
+| **euROBIN**, **euROBIN-Perception**, **euROBIN-Arm**, **euROBIN-Robot** | Robot Competition related code repositories | 2025 | Write |
 
-> **Example** – the 2025 all‑hands seminar repository should be named: `Full team meeting-2025`
+> **Example** – the 2025 all‑hands seminar repository should be named: `Full-team-meeting-2025`
 
 ### 📁 Meeting Repository Directory Structure
 

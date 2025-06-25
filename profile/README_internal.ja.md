@@ -25,14 +25,15 @@
 
 | リポジトリ接頭辞 | 内容  | 年度サフィックス | メンバー権限 |
 | --- | --- | --- | --- |
-| **Full team meeting** | 全体ゼミ | 2025 | 書き込み（Write） |
-| **Biosignal Seminar** | 生体計測ゼミ | 2025 | 書き込み（Write） |
-| **Soft Robotics Seminar** | ソフトロボットゼミ | 2025 | 書き込み（Write） |
-| **Journal Club** | 輪読会／ジャーナルクラブ | 2025 | 書き込み（Write） |
+| **Full-team-meeting** | 全体ゼミ | 2025 | 書き込み（Write） |
+| **Biosignal-Seminar** | 生体計測ゼミ | 2025 | 書き込み（Write） |
+| **Soft-Robotics-Seminar** | ソフトロボットゼミ | 2025 | 書き込み（Write） |
+| **Journal-Club** | 輪読会／ジャーナルクラブ | 2025 | 書き込み（Write） |
 | **Workshops** | 勉強会 | 2025 | 書き込み（Write） |
-| **Other Meetings** | その他の会議 | 2025 | 書き込み（Write） |
+| **Other-Meetings** | その他の会議 | 2025 | 書き込み（Write） |
+| **euROBIN**, **euROBIN-Perception**, **euROBIN-Arm**, **euROBIN-Robot** | Robot Competition 関連のコードリポジトリ | 2025 | 書き込み（Write） |
 
-> **例** – 2025年度の全体ゼミリポジトリは `Full team meeting-2025` と命名します。
+> **例** – 2025年度の全体ゼミリポジトリは `Full-team-meeting-2025` と命名します。
 
 ### 📁 ミーティングリポジトリのディレクトリ構成
 
