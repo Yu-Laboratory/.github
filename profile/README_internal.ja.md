@@ -1,64 +1,49 @@
-<!-- 言語選択 -->
-
-<div align="right">
-  <details>
-    <summary><strong>Select Language</strong></summary>
-    <p>
-      <a href="README_internal.md">English</a><br>
-      <strong>日本語</strong><br>
-      <a href="README_internal.zh.md">中文</a>
-    </p>
-  </details>
-</div>
-
-# 📚 Yu研究室 — 内部ハンドブック
-
-<p align="center"><strong><em>メンバー専用｜機密</em></strong></p>
+# 📚 Yu Laboratory — Internal Handbook
 
 ---
 
-> **機密情報。** 本ドキュメントで言及されるリポジトリはYu-Labメンバーのみがアクセス可能です。組織外部への共有は禁止されています。
+> **Confidential.** The repositories referenced in this document are accessible only to Yu‑Lab members. Do not share outside the organization.
 
-## 📌 本GitHub組織の目的
+## 📌 Purpose of this GitHub Organization
 
-本組織は、**実験室内の各種ミーティングおよび勉強会に関する資料**を一元管理・アーカイブするためのものです。各会シリーズごとに専用リポジトリを設け、スライド、議事録、関連論文などを格納します。
+This organization serves as a central archive for **all materials related to our internal lab meetings and study groups**. Each meeting series has its dedicated repository containing slides, meeting minutes, and relevant papers.
 
-## 🗂️ リポジトリ命名規則
+## 🗂️ Repository Naming Convention
 
-| リポジトリ接頭辞（JP） | 内容  | 年度サフィックス | メンバー権限 |
+| Repository Prefix | Content | Year Suffix | Member Permission |
 | --- | --- | --- | --- |
-| **Full team meeting** | 全体ゼミ | 2025 | 書き込み（Write） |
-| **Biosignal Seminar** | 生体計測ゼミ | 2025 | 書き込み（Write） |
-| **Soft Robotics Seminar** | ソフトロボットゼミ | 2025 | 書き込み（Write） |
-| **Journal Club** | 輪読会／ジャーナルクラブ | 2025 | 書き込み（Write） |
-| **Workshops** | 勉強会 | 2025 | 書き込み（Write） |
-| **Other Meetings** | その他の会議 | 2025 | 書き込み（Write） |
+| **Full team meeting** | Monthly all‑hands lab seminar | 2025 | Write |
+| **Biosignal Seminar** | Biosignal‑measurement subgroup seminars | 2025 | Write |
+| **Soft Robotics Seminar** | Soft‑robotics subgroup seminars | 2025 | Write |
+| **Journal Club** | Journal club / paper reading sessions | 2025 | Write |
+| **Workshops** | Skill‑up workshops & study meetings | 2025 | Write |
+| **Other Meetings** | Ad‑hoc or cross‑group meetings | 2025 | Write |
 
-> **例** – 2025年度の全体ゼミリポジトリは `全体ゼミ2025` と命名します。
+> **Example** – the 2025 all‑hands seminar repository should be named: `Full team meeting-2025`
 
-### 📁 ミーティングリポジトリのディレクトリ構成
+### 📁 Meeting Repository Directory Structure
 
 ```
 ├── slides/
-│   ├── 01/  # 1月
+│   ├── 01/  # January
 │   ├── 02/
-│   │   …    # 3月～11月
-│   └── 12/  # 12月
+│   │   …    # March–November
+│   └── 12/  # December
 └── resources/
-    ├── 01/  # 1月
+    ├── 01/  # January
     ├── 02/
-    │   …    # 3月～11月
-    └── 12/  # 12月
+    │   …    # March–November
+    └── 12/  # December
 ```
 
-## 💻 コードリポジトリ
+## 💻 Code Repositories
 
-研究用コードは**上記のミーティング資料リポジトリには配置せず**、アップロードする場合は組織管理者にお問い合わせください。
+Research code **should not** be placed in the meeting-material repositories above. To upload research code, please contact the organization administrator.
 
 ---
 
-📬 ご質問は 組織管理者：
+📬 For any questions, contact organization administrator:
 
-- **[heu_xuyouyan@outlook.com](mailto:infrastructure@yu-lab.local)** 又は
+- **[heu_xuyouyan@outlook.com](mailto:infrastructure@yu-lab.local)** or
   
-- **[yuwill@faculty.chiba-u.jp](mailto:infrastructure@yu-lab.local)**　までお問い合わせください
+- **[yuwill@faculty.chiba-u.jp](mailto:infrastructure@yu-lab.local)**
