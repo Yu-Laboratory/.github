@@ -6,7 +6,7 @@
     <p>
       <strong>English</strong><br>
       <a href="README_internal.ja.md">日本語</a><br>
-      <a href="README_internal.en.md">中文</a><br>
+      <a href="README_internal.zh.md">中文</a><br>
     </p>
   </details>
 </div>
