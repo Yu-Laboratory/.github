@@ -38,16 +38,13 @@ This organization serves as a central archive for **all materials related to our
 ### 📁 Meeting Repository Directory Structure
 
 ```
-├── slides/
-│   ├── 01/  # January
-│   ├── 02/
-│   │   …    # March–November
-│   └── 12/  # December
-└── resources/
-    ├── 01/  # January
-    ├── 02/
-    │   …    # March–November
-    └── 12/  # December
+├── 01/  # January
+├── 02/
+├── 03/
+├── 04/
+│   …
+├── 11/
+├── 12/  # December
 ```
 
 ## 💻 Code Repositories
